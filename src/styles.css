@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url("https://rawcdn.githack.com/djmckenzie77/digitalClock/f655c34c98b7c14598d4aee508ae57016bda156c/src/pattern.png");
+  background-image: url("./src/pattern.png");
 }
 
 .main {
